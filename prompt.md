@@ -12,9 +12,9 @@ Analisar detalhadamente a aplicação AWS CardDemo (originalmente em Cobol), doc
 *   **Local:** Salve o código clonado em um diretório chamado `codigo-original-cobol/`.
 
 ### 0.2. Criar Estrutura de Diretórios
-*   No seu diretório de trabalho principal do projeto de modernização, crie (ou certifique-se que exista) a seguinte estrutura de pastas:
+*   No seu diretório de trabalho principal do projeto de modernização, crie (ou certifique-se que exista) a seguinte estrutura de pastas, onde YYYY-MM-DD-HH-MM é o ano, mes, dia e hora em que o processo está sendo executado:
     ```
-    /new-carddemo
+    /new-carddemo-YYYY-MM-DD-HH-MM
     ├── prompts/                  # Local para salvar este e outros prompts relacionados
     ├── documentacao/             # Local para salvar toda a documentação gerada
     ├── logs/                     # Local para salvar logs de execução (como o worklog)
